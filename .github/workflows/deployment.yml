@@ -1,3 +1,5 @@
+name: Deployment trigger
+
 on:
   workflow_dispatch
 
